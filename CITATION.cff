@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Caos en sistemas biológicos
+message: >-
+  Gemelos digitales / Ingeniería Biomédica / Tecnológico
+  Nacional de México
+type: software
+authors:
+  - given-names: Alberto 
+    family-names: Villalobos Valdez
+    email: L22212277@tectijuana.edu.mx
+    affiliation: Tecnológico Nacional de México
+repository-code: 'https://github.com/l22212277-stack/Practica2GD.'
+keywords:
+  - Caos
+  - Conjuntos Compactos Invariantes
+  - Simulaciones Numéricas
+  - Condiciones de Estabilidad
+  - Solución de EDOs
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-04-12'
